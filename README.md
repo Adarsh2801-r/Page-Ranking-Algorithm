@@ -1,4 +1,4 @@
-# Page-Ranking-Algorithm
+# Page-Ranking of Web graph
 The PageRank algorithm is implemented with and without random teleportations using the
 following two methods – </br>
 A. Finding the principal left eigenvector of the probability transition matrix directly i.e., by making use
