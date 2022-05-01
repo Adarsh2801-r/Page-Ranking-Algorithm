@@ -18,9 +18,8 @@ Edge list (E edges each between a pair of nodes)
 
 Steps to run: </br>
 1. After giving the input, call the function prob_transition_matrix(adj_matrix,alpha) which takes adjacency matrix and teleportation parameter (alpha) as input
-2.  
-a) Set alpha = 0 to run the algorithm without random teleportation</br> 
-b) Set alpha > 0 to run the algorithm with random teleportation
+2.  a) Set alpha = 0 to run the algorithm without random teleportation</br> 
+    b) Set alpha > 0 to run the algorithm with random teleportation
 3. Run the algorithm with both methods : numerical linear algebra and power iteration method
 
 ## Running Time Analysis
