@@ -24,4 +24,5 @@ Steps to run: </br>
 
 ## Running Time Analysis
 
+![image](https://user-images.githubusercontent.com/66625110/166198645-4c8d1591-2899-44c5-942e-f4246ba1df0e.png)
 
