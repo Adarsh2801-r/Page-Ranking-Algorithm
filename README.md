@@ -26,3 +26,5 @@ Steps to run: </br>
 
 ![image](https://user-images.githubusercontent.com/66625110/166198645-4c8d1591-2899-44c5-942e-f4246ba1df0e.png)
 
+The above plot shows edgelist size Vs Running time for the power iteration method of the algorithm. We see that running time of the algorithm increases steadily , with increase in edge list size. 
+
